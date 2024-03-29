@@ -24,14 +24,12 @@ module.exports = {
   
       }, 
       fontFamily: {
-
         MontserratItalic : "MontserratItalic",
         MontserratRegular : "MontserratRegular",
         SourceSansProBold : "SourceSansProBold",
         SourceSansProRegular : "SourceSansProRegular",
-        PragmaticaExtraLight: "PragmaticaExtraLight"
-        
-            }
+        PragmaticaExtraLight: "PragmaticaExtraLight"      
+        }
      },
 
   },
